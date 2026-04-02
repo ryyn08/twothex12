@@ -1,5 +1,5 @@
-{ "host": "https://domain.com",
-  "ptla": "key",
-  "ptlc": "key", 
-  "egg": "15",
-  "location": "1" }
+{
+  "host": "https://panel.example.com",
+  "ptla": "ptla_isi_disini",
+  "ptlc": "ptlc_isi_disini"
+}
