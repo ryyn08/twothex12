@@ -1,1 +1,5 @@
-{}
+{ "host": "https://domain.com",
+  "ptla": "key",
+  "ptlc": "key", 
+  "egg": "15",
+  "location": "1" }
